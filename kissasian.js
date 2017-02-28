@@ -1,5 +1,5 @@
 // python -m http.server
-// http://localhost:8000/kissanime.js
+// http://localhost:8000/kissasian.js
 
 // CONFIG
 var siteName = "Kissasian"
